@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWirte">#FFFFFF</color>
+    <color name="colornun">#00FFFFFF</color>
+    <color name="UMEZOME">#E9A368</color>
+    <color name="MUSHIKURI">#D9CD90</color>
+</resources>
